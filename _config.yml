@@ -4,7 +4,7 @@ email: zhu.jingwen@foxmail.com
 description: > # this means to ignore newlines until "baseurl"
   Jingwen Zhu, nothing to say for now.
 
-baseurl: # the subpath of the site
+baseurl: aboutme.html # the subpath of the site
 url: https://jingwendom.github.io # the base hostname & protocol for your site
 
 permalink: /:year-:month/:title
